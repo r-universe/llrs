@@ -1,0 +1,9 @@
+[
+  {
+    "package": "experDesign",
+    "oncran": true
+  },
+  {
+    "package": "BioCor"
+  }
+]
