@@ -5,6 +5,3 @@
 [submodule "experDesign"]
 	path = experDesign
 	url = https://github.com/llrs/experdesign
-[submodule "repo.data"]
-	path = repo.data
-	url = https://github.com/llrs/repo.data
